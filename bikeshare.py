@@ -79,7 +79,7 @@ def time_stats(df):
     number_of_trips = len(df)
     print("Number of Trips for the Month:", number_of_trips)
     
-    # Display the most common month
+    # Display the most common month - comment for refactoring branch 
     common_month = df['month'].mode()[0]
     print('Most Common Month:', common_month)
     
