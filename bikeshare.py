@@ -16,7 +16,7 @@ def get_filters():
     """
     print("\nHello! Let's explore some USA bikeshare data!\n")
     
-    # Get user input for city
+    # Get user input for city - new comment for git documentation branch
     while True:
         city = input("Please Choose a City You'd Like to Analyze: Chicago, New York City, Washington ").lower()
         if city in CITY_DATA:
@@ -33,7 +33,7 @@ def get_filters():
         else:
             print("Invalid Input. Choose Either January, February, March, April, May, June, or 'All' for No Filter.")
     
-    # Get user input for day of week
+    # Get user input for day of week 
     days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday', 'all']
     while True:
         day = input("\nWhich Day Would You Like to Filter By (Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday) or 'All' for No Filter? \n").lower()
