@@ -75,7 +75,7 @@ def time_stats(df):
     print('\nCalculating Total Number of Trips and The Most Frequent Times of Travel...\n')
     start_time = time.time()
     
-   #Display trip count for more insights
+   #Display trip count for more insights - comment for refactoring branch 
     number_of_trips = len(df)
     print("Number of Trips for the Month:", number_of_trips)
     
