@@ -6,3 +6,6 @@ This is a new section where instructions will be entered. Please follow general 
 
 # Usage Instructions:
 This is a new section where usage instruction will be entered. Pleases follow general usage guidelines for this section. 
+
+# Contributing Guidelines
+This is a new section where contributing guidelines will be entered. Please follow general contributing guidlines for this section. 
