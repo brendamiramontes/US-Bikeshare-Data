@@ -4,14 +4,14 @@ This Python program allows users to explore and analyze US bikeshare data from t
 ## Contents
 1. [Python Code](./bikeshare.py)
 
-##Features
+## Features
 **Load Data:** Load data from CSV files for Chicago, New York City, and Washington.
 **Time Statistics:** Calculate and display statistics on the most frequent times of travel.
 **Station Statistics:** Calculate and display statistics on the most popular stations and trips.
 **Trip Duration Statistics:** Calculate and display statistics on total and average trip durations.
 **User Statistics:** Calculate and display statistics on bikeshare users, including user types, gender, and birth years.
 
-##Data Files
+## Data Files
 The program uses the following CSV files:
 
 - chicago.csv
@@ -19,7 +19,7 @@ The program uses the following CSV files:
 - washington.csv
 These files should be placed in the same directory as the bikeshare.py script.
 
-##Example Output
+## Example Output
 Hello! Let's explore some US bikeshare data!
 Would you like to see data for Chicago, New York, or Washington? chicago
 Which month? all, january, february, march, april, may, or june? all
@@ -50,9 +50,9 @@ Customer: 61110
 
 This is all for now! Have a great day!
 
-#Requirements
+## Requirements
 Python 3.x
 Pandas library
 
-#Acknowledgements
+## Acknowledgements
 This project is part of a Udacity course on Python programming and data analysis.
