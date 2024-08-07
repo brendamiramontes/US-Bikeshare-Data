@@ -39,7 +39,7 @@ Most frequent combination of start station and end station trip: Lake Shore Dr &
 
 Calculating Trip Duration...
 
-Total travel time: 280871787
+Total travel time: 2808
 Mean travel time: 940.94
 
 Calculating User Stats...
