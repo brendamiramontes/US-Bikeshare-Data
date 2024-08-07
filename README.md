@@ -2,7 +2,7 @@
 This Python program allows users to explore and analyze US bikeshare data from three major cities: Chicago, New York City, and Washington. The program computes and displays various statistics on trip durations, popular stations, and user demographics.
 
 ## Contents
-1. [Python Code](./bikeshare.py)
+[Python Code](./bikeshare.py)
 
 ## Features
 **Load Data:** Load data from CSV files for Chicago, New York City, and Washington.
